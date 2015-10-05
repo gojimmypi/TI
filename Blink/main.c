@@ -8,6 +8,7 @@
 // features while we are still learning
 
 int x = 0;
+int y = 0;
 
 main() // All C programs have a main function
 {
