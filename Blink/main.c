@@ -9,6 +9,7 @@
 
 int x = 0;
 int y = 0;
+int z = 0;
 
 main() // All C programs have a main function
 {
