@@ -10,7 +10,12 @@
 int x = 0;
 int y = 0;
 int z = 0;
+<<<<<<< HEAD
+int z2 = 1; // new edit 10/7
+int z3 = 0; // thsi is a CCS Work Branch Edit!
+=======
 int z2 = 1; // new
+>>>>>>> master
 
 main() // All C programs have a main function
 {
