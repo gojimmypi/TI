@@ -10,7 +10,7 @@
 int x = 0;
 int y = 0;
 int z = 0;
-int z2 = 1; // new
+int z2 = 1; // new edit 10/7
 
 main() // All C programs have a main function
 {
